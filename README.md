@@ -1,4 +1,4 @@
-# Bodies-in-Wearables-Jam
+# Bodies in Wearables
 
 ## Hello World!
 
