@@ -2,11 +2,14 @@
 ## Tutorials
 - #### Getting set-up on using Makecode with Circuit Playground Express(CPX)
 - #### Basic LEDs
-  - #### Blink on-board LED
+  - #### (Blink on-board LED)
   - #### Using Fairy lights 
 - #### Neopixels
   - #### Turning ON Neopixels
   - #### Neopixel Strip
+
+
+## Blink on-board LED
 
 
 ## About Circuit Playground Express
