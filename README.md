@@ -6,20 +6,20 @@
 - #### [Neopixels](#neopixels-1)
   - #### [Turning ON Neopixels](#turning-on-neopixels-1)
   - #### [Neopixel strip](#neopixel-strip-1)
-- #### [Servos]
-  - #### [180° Servo motors]
-    - #### [Full range test]
-    - #### [Button activated]
-    - #### [Looping]
-  - #### [360° Servo Motors]
-    - #### [Full range test]
-- #### [Sensors]
-- #### [Servo motor mounts]
-  - #### [90° servo mechanism]
-  - #### [Multi-angle servo mount]
-  - #### [Examples]
-- #### [Mounting CPX]
-- #### [Beyond alligator clips]
+- #### [Servos](#servos-1)
+  - #### [180° servo motors](#neopixel-strip-1)
+    - #### [Full range test](#neopixel-strip-1)
+    - #### [Button activated motion](#neopixel-strip-1)
+    - #### [Loops](#neopixel-strip-1)
+  - #### [360° servo Motors](#neopixel-strip-1)
+    - #### [Full range test](#neopixel-strip-1)
+- #### [Sensors](#neopixel-strip-1)
+- #### [Servo motor mounts](#neopixel-strip-1)
+  - #### [90° servo mechanism](#neopixel-strip-1)
+  - #### [Multi-angle servo mount](#neopixel-strip-1)
+  - #### [Examples](#neopixel-strip-1)
+- #### [Mounting CPX](#neopixel-strip-1)
+- #### [Beyond alligator clips](#neopixel-strip-1)
  
  
 
@@ -36,6 +36,21 @@
 ### Turning ON Neopixels
 
 ### Neopixel strip
+
+## Servos
+
+### 180° servo motors
+
+### Full range test
+
+### Button activated motion
+
+### loops
+
+### 360° servo motors
+
+### Full range test
+
 
 // insert code below
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.adafruit.com/#pub:_4ffFtM9FAP2L" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
