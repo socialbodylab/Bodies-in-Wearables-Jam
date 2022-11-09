@@ -1,15 +1,22 @@
 # Bodies in Wearables
 ## Tutorials
-- #### Getting set-up on using Makecode with Circuit Playground Express(CPX)
+- #### [Getting started with using Makecode with Circuit Playground Express(CPX)]()
 - #### Basic LEDs
   - #### [Blink on-board LED](https://github.com/socialbodylab/Bodies-in-Wearables-Jam/blob/main/README.md#blink-on-board-led-1)
-  - #### Using Fairy lights 
+  - #### [Using Fairy lights]()
 - #### Neopixels
-  - #### Turning ON Neopixels
-  - #### Neopixel Strip
+  - #### [Turning ON Neopixels]
+  - #### [Neopixel Strip]
 
+## Getting started with using Makecode with Circuit Playground Express(CPX)
 
 ## Blink on-board LED
+
+## Using Fairy Lights
+
+## Turning ON Neopixels
+
+## Neopixel Strip
 
 
 ## About Circuit Playground Express
