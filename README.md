@@ -4,7 +4,7 @@
 
 ## About Team
 
-### TEsting
+## About Circuit Playground Express
 
 
 // insert code below
