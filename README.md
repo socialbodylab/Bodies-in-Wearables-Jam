@@ -3,7 +3,7 @@
 - #### Getting set-up on using Makecode with Circuit Playground Express(CPX)
 - #### Blink on-board LED
 - #### Using Fairy lights 
- - #### testing
+  - #### testing
 
 
 ## About Circuit Playground Express
