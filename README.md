@@ -3,14 +3,18 @@
 - #### [Getting started with using Makecode with Circuit Playground Express(CPX)](#getting-started-with-using-makecode-with-circuit-playground-expresscpx-1)
 - #### Basic LEDs
   - #### [Blink on-board LED](#blink-on-board-led-1)
-  - #### [Using Fairy lights](#using-fairy-lights-1)
+  - #### [Using fairy lights](#using-fairy-lights-1)
 - #### Neopixels
   - #### [Turning ON Neopixels](#turning-on-neopixels-1)
-  - #### [Neopixel Strip](##neopixel-strip-1)
+  - #### [Neopixel strip](##neopixel-strip-1)
 - #### Servos
-  - #### 180° Servo Motors
-    - #### test
+  - #### 180° Servo motors
+    - #### Full range test
+    - #### Button activated
+    - #### Looping 
   - #### 360° Servo Motors
+    - #### Full range test
+    - ####
  
 
 ## Getting started with using Makecode with Circuit Playground Express(CPX)
