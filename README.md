@@ -1,6 +1,6 @@
 # Bodies in Wearables
 
-## ABout Project
+## About Project
 
 ## About Team
 
