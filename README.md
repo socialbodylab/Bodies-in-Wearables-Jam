@@ -2,7 +2,7 @@
 ## Tutorials
 - #### Getting set-up on using Makecode with Circuit Playground Express(CPX)
 - #### Basic LEDs
-  - #### (Blink on-board LED)
+  - #### [Blink on-board LED](https://github.com/socialbodylab/Bodies-in-Wearables-Jam/blob/main/README.md#blink-on-board-led-1)
   - #### Using Fairy lights 
 - #### Neopixels
   - #### Turning ON Neopixels
