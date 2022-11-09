@@ -6,7 +6,7 @@
   - #### [Using fairy lights](#using-fairy-lights-1)
 - #### Neopixels
   - #### [Turning ON Neopixels](#turning-on-neopixels-1)
-  - #### [Neopixel strip](##neopixel-strip-1)
+  - #### [Neopixel strip](#neopixel-strip-1)
 - #### Servos
   - #### 180° Servo motors
     - #### Full range test
@@ -25,7 +25,7 @@
 
 ## Turning ON Neopixels
 
-## Neopixel Strip
+## Neopixel strip
 
 // insert code below
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.adafruit.com/#pub:_4ffFtM9FAP2L" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
