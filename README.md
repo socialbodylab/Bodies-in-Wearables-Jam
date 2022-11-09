@@ -5,11 +5,11 @@
   - #### [Blink on-board LED](#blink-on-board-led-1)
   - #### [Using Fairy lights](#using-fairy-lights-1)
 - #### Neopixels
-  - #### [Turning ON Neopixels](#turning-on-neopixels)
-  - #### [Neopixel Strip](##neopixel-strip)
+  - #### [Turning ON Neopixels](#turning-on-neopixels-1)
+  - #### [Neopixel Strip](##neopixel-strip-1)
 - #### Servos
   - #### 180° Servo Motors
-    - #### Serv
+ 
   - #### 360° Servo Motors
  
 
