@@ -1,8 +1,10 @@
 # Bodies in Wearables
 
-## About Project
+## Tutorials
+### Getting set-up on using Makecode with Circuit Playground Express(CPX)
+### Blink on-board LED
+### Using Fairy lights 
 
-## About Team
 
 ## About Circuit Playground Express
 ![14](https://user-images.githubusercontent.com/93211311/200924770-d8c1b8dc-476f-4d2d-9308-06699322a334.gif)
