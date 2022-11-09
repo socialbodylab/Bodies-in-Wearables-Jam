@@ -5,6 +5,7 @@
 ## About Team
 
 ## About Circuit Playground Express
+![noun-medical-4804847](https://user-images.githubusercontent.com/93211311/200924679-c5efa1d5-5466-4473-960c-f33933f5db6f.png)
 
 
 // insert code below
