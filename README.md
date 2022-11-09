@@ -1,4 +1,3 @@
-# Bodies in Wearables
 ## Tutorials
 - #### [Getting started with using Makecode with Circuit Playground Express(CPX)](#getting-started-with-using-makecode-with-circuit-playground-expresscpx-1)
 - #### Basic LEDs
