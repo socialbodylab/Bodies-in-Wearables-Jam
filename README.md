@@ -83,17 +83,21 @@
 ### 90° servo mechanism
 
 #### Arm
+
 <script src="https://embed.github.com/view/3d/socialbodylab/Bodies-in-Wearables-Jam/blob/main/3D%20Design%20Files/90deg%20servo%20mechanism/BiP_servo_90deg_arm.stl"></script>
 
 #### Base
+
 <script src="https://embed.github.com/view/3d/socialbodylab/Bodies-in-Wearables-Jam/blob/main/3D%20Design%20Files/90deg%20servo%20mechanism/BiP_servo_90deg_base.stl"></script>
 
 ### Multi-angle servo mount
 
 #### Mount
+
 <script src="https://embed.github.com/view/3d/socialbodylab/Bodies-in-Wearables-Jam/blob/main/3D%20Design%20Files/MultiAngle%20servo%20mount/BiP_servo_multiAngle_mount.stl"></script>
 
 #### Pins
+
 <script src="https://embed.github.com/view/3d/socialbodylab/Bodies-in-Wearables-Jam/blob/main/3D%20Design%20Files/MultiAngle%20servo%20mount/BiP_servo_multiAngle_pins.stl"></script>
 
 ### Examples
