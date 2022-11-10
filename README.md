@@ -27,7 +27,8 @@
 
 ## Getting started with using Makecode and Circuit Playground Express(CPX)
 
-
+![IMG_5069](https://user-images.githubusercontent.com/73500565/201194307-cbb40cdf-fa60-4cb1-89ff-0b4558ac0bee.JPEG)
+![IMG_5070](https://user-images.githubusercontent.com/73500565/201194308-458354dd-e0b3-45c0-8c61-3cf65d7d2adf.JPEG)
 
 ## Basic LEDs
 
@@ -37,15 +38,21 @@
 
 ### Using Fairy Lights
 
+![IMG_5125](https://user-images.githubusercontent.com/73500565/201194560-d6271ce5-f65a-4e28-819c-ac220a238299.JPG)
+
 <div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.adafruit.com/#pub:_3qYR9jA9Kb6k" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
 ## Neopixels
 
 ### Turning ON Neopixels
+![IMG_5073](https://user-images.githubusercontent.com/73500565/201192218-813d33fa-3653-4c34-b5ff-74aff438c25a.JPG)
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.adafruit.com/#pub:_TFAehqYs5h19" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Neopixel strip
+![IMG_5078](https://user-images.githubusercontent.com/73500565/201192435-910b4dc4-12d0-4826-a23c-9655ba9f8b6e.JPG)
+
+![IMG_5077](https://user-images.githubusercontent.com/73500565/201192396-5aeae1ad-acf1-4f75-bbc5-e91a2cb220ca.JPG)
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.adafruit.com/#pub:_fkU8Pr8o2MwW" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
