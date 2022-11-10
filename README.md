@@ -27,7 +27,6 @@
 
 ## Getting started with using Makecode and Circuit Playground Express(CPX)
 
-![Uploading IMG_5069.JPEG…]() ![Uploading IMG_5070.JPEG…]()
 
 
 ## Basic LEDs
