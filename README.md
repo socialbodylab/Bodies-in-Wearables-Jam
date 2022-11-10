@@ -24,13 +24,11 @@
 - #### [Beyond alligator clips](#beyond-alligator-clips-1)
  
  
+<a href="IMG_5069"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/73500565/201194307-cbb40cdf-fa60-4cb1-89ff-0b4558ac0bee.JPEG)" align="left" width="100" ></a>
 
 ## Getting started with using Makecode and Circuit Playground Express(CPX)
 
 ![IMG_5069](https://user-images.githubusercontent.com/73500565/201194307-cbb40cdf-fa60-4cb1-89ff-0b4558ac0bee.JPEG)
-
-<a href="IMG_5069"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/73500565/201194307-cbb40cdf-fa60-4cb1-89ff-0b4558ac0bee.JPEG)" align="left" width="100" ></a>
-
 ![IMG_5070](https://user-images.githubusercontent.com/73500565/201194308-458354dd-e0b3-45c0-8c61-3cf65d7d2adf.JPEG)
 
 ## Basic LEDs
