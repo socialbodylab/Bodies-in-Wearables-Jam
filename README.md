@@ -9,7 +9,7 @@
 - #### [Servos](#servos-1)
   - #### [180° servo motors](#180-servo-motors-1)
     - #### [Full range test](#full-range-test-2)
-    - #### [Button activated motion](#nbutton-activated-motion-1)
+    - #### [Button activated motion](#button-activated-motion-1)
     - #### [Loops](#loops-1)
   - #### [360° servo Motors](#360-servo-motors-1)
     - #### [Full range test](#full-range-test-3)
