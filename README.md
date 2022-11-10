@@ -25,8 +25,8 @@
 
 ## Getting started with using Makecode and Circuit Playground Express(CPX)
 
-<a href="url"><img src="https://user-images.githubusercontent.com/73500565/201194307-cbb40cdf-fa60-4cb1-89ff-0b4558ac0bee.JPEG" align="centre" width="350" ></a>
-<a href="url"><img src="https://user-images.githubusercontent.com/73500565/201194308-458354dd-e0b3-45c0-8c61-3cf65d7d2adf.JPEG" align="centre" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/73500565/201194307-cbb40cdf-fa60-4cb1-89ff-0b4558ac0bee.JPEG" align="left" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/73500565/201194308-458354dd-e0b3-45c0-8c61-3cf65d7d2adf.JPEG" align="right" width="350" ></a>
 
 ## Basic LEDs
 https://user-images.githubusercontent.com/73500565/201194308-458354dd-e0b3-45c0-8c61-3cf65d7d2adf.JPEG
