@@ -1,5 +1,5 @@
 ## Tutorials
-- #### [Getting started with using Makecode with Circuit Playground Express(CPX)](#getting-started-with-using-makecode-with-circuit-playground-expresscpx-1)
+- #### [Getting started with using Makecode and Circuit Playground Express(CPX)](#getting-started-with-using-makecode-and-circuit-playground-expresscpx-1)
 - #### [Basic LEDs](#basic-leds-1)
   - #### [Blink on-board LED](#blink-on-board-led-1)
   - #### [Using fairy lights](#using-fairy-lights-1)
@@ -23,7 +23,7 @@
  
  
 
-## Getting started with using Makecode with Circuit Playground Express(CPX)
+## Getting started with using Makecode and Circuit Playground Express(CPX)
 
 ## Basic LEDs
 
