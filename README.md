@@ -49,7 +49,7 @@
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.adafruit.com/#pub:_TFAehqYs5h19" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ### Neopixel strip
-<a href="url"><img src="https://user-images.githubusercontent.com/73500565/201192435-910b4dc4-12d0-4826-a23c-9655ba9f8b6e.JPG" align="centre" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/73500565/201192435-910b4dc4-12d0-4826-a23c-9655ba9f8b6e.JPG" align="left" width="350" ></a>
 
 <a href="url"><img src="https://user-images.githubusercontent.com/73500565/201192396-5aeae1ad-acf1-4f75-bbc5-e91a2cb220ca.JPG" align="centre" width="350" ></a>
 
