@@ -96,19 +96,11 @@
 #### Pins
 <script src="https://embed.github.com/view/3d/socialbodylab/Bodies-in-Wearables-Jam/blob/main/3D%20Design%20Files/MultiAngle%20servo%20mount/BiP_servo_multiAngle_pins.stl"></script>
 
-
 ### Examples
 
 ## Mounting CPX
 
 ## Beyond alligator clips
-
-
-
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.adafruit.com/#pub:_4ffFtM9FAP2L" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
-
-
-
 
 
 
