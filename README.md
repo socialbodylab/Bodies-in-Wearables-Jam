@@ -22,17 +22,14 @@
   - #### [Examples](#examples-1)
 - #### [Mounting CPX](#mounting-cpx-1)
 - #### [Beyond alligator clips](#beyond-alligator-clips-1)
- 
- 
-<a href="url"><img src="https://user-images.githubusercontent.com/73500565/201194307-cbb40cdf-fa60-4cb1-89ff-0b4558ac0bee.JPEG" align="centre" width="350" ></a>
 
 ## Getting started with using Makecode and Circuit Playground Express(CPX)
 
-![IMG_5069](https://user-images.githubusercontent.com/73500565/201194307-cbb40cdf-fa60-4cb1-89ff-0b4558ac0bee.JPEG)
-![IMG_5070](https://user-images.githubusercontent.com/73500565/201194308-458354dd-e0b3-45c0-8c61-3cf65d7d2adf.JPEG)
+<a href="url"><img src="https://user-images.githubusercontent.com/73500565/201194307-cbb40cdf-fa60-4cb1-89ff-0b4558ac0bee.JPEG" align="centre" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/73500565/201194308-458354dd-e0b3-45c0-8c61-3cf65d7d2adf.JPEG" align="centre" width="350" ></a>
 
 ## Basic LEDs
-
+https://user-images.githubusercontent.com/73500565/201194308-458354dd-e0b3-45c0-8c61-3cf65d7d2adf.JPEG
 ### Blink on-board LED
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/73500565/201198310-1f72ae9e-2eb1-4ced-9e78-6b10c2f7d130.gif)
