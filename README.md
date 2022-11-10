@@ -24,7 +24,7 @@
 - #### [Beyond alligator clips](#beyond-alligator-clips-1)
  
  
-<a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/73500565/201194307-cbb40cdf-fa60-4cb1-89ff-0b4558ac0bee.JPEG)" align="left" width="100" ></a>
+<a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/73500565/201194307-cbb40cdf-fa60-4cb1-89ff-0b4558ac0bee.JPEG)" align="left" width="50" ></a>
 
 ## Getting started with using Makecode and Circuit Playground Express(CPX)
 
