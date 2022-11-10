@@ -81,6 +81,8 @@
 
 ### 90° servo mechanism
 
+<script src="https://embed.github.com/view/3d/socialbodylab/Bodies-in-Wearables-Jam/blob/main/3D%20Design%20Files/90deg%20servo%20mechanism/BiP_servo_90deg_arm.stl"></script>
+
 ### Multi-angle servo mount
 
 ### Examples
