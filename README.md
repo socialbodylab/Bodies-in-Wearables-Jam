@@ -12,7 +12,7 @@
     - #### [Button activated motion](#button-activated-motion-1)
     - #### [Loops](#loops-1)
   - #### [360° servo Motors](#360-servo-motors-1)
-    - #### [Full range test](#full-range-test-3)
+    - #### [Toggle direction](#toggle-direction-1)
 - #### [Sensors](#sensors-1)
   - #### [Using shake sensor](#using-shake-sensor-1)
   - #### [Using sound sensor](#using-sound-sensor-1)
@@ -65,7 +65,9 @@
 
 ### 360° servo motors
 
-### Full range test
+### Toggle direction
+
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.adafruit.com/#pub:_4oTD9bbjoJh4" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
 
 ## Sensors
 
